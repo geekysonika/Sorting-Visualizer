@@ -1,5 +1,6 @@
 Deploy link:
 sortsync.netlify.app
+
 How to Use:
 1) Generate Array: Click the "Generate Array" button to create a new random array of elements that will be sorted.
 
