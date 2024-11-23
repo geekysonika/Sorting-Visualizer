@@ -15,11 +15,13 @@ How to Use:
 6) Time Complexity: The time complexity for the selected sorting algorithm will be displayed during the process so you can learn how efficient the algorithm is at different array sizes.
 
 Technologies Used:
+
 HTML: For the basic structure of the web page.
 CSS: For styling the page and the sorting visualizations.
 JavaScript: For implementing the sorting algorithms and controlling the animations.
 
 Installation
+
 To run this project locally:
   1) Clone this repository:
      git clone https://github.com/geekysonika/sorting-Visualizer.git
