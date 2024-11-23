@@ -17,7 +17,9 @@ How to Use:
 Technologies Used:
 
 HTML: For the basic structure of the web page.
+
 CSS: For styling the page and the sorting visualizations.
+
 JavaScript: For implementing the sorting algorithms and controlling the animations.
 
 Installation
